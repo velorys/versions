@@ -1,0 +1,12 @@
+{
+    "velorys_aduty": {
+        "version": "2.1.0",
+        "description": "Noclip improvements, smart menu, radius presets",
+        "download": "https://portal.velorys.gg"
+    },
+    "velorys_menu": {
+        "version": "1.0.0",
+        "description": "Initial release",
+        "download": "https://portal.velorys.gg"
+    }
+}
