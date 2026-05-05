@@ -8,5 +8,10 @@
         "version": "1.0.0",
         "description": "Initial release",
         "download": "https://portal.velorys.gg"
+    },
+    "velorys_radiolist": {
+        "version": "1.0.0",
+        "description": "Initial release",
+        "download": "https://portal.velorys.gg"
     }
 }
